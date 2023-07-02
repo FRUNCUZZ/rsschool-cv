@@ -1,2 +1,1 @@
-#test
-New text
+https://FRUNCUZZ.github.io/rsschool-cv/cv
