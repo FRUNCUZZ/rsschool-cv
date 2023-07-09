@@ -1,1 +1,1 @@
-https://FRUNCUZZ.github.io/rsschool-cv/cv
+https://FRUNCUZZ.github.io/rsschool-cv/
